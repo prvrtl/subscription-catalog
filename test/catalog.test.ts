@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { SERVICES, annualCents, byId, cheapestPlan, faviconUrl, iconUrl, search } from '../src/index'
+import { SERVICES, annualCents, byId, cheapestPlan, faviconUrl, iconUrl, search } from '../src/index.js'
 
 describe('data', () => {
   it('has entries', () => {
