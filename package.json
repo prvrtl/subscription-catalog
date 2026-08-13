@@ -1,0 +1,23 @@
+{
+  "name": "subscription-catalog",
+  "version": "0.1.0",
+  "description": "Subscription services, plans, prices and brand marks, focused on the German market",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./data": "./data/services.json"
+  },
+  "files": ["src", "data"],
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node scripts/validate.mjs && vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vitest": "^4.1.0"
+  },
+  "license": "MIT"
+}

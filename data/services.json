@@ -1,0 +1,1869 @@
+{
+  "version": 1,
+  "currency": "EUR",
+  "region": "DE",
+  "services": [
+    {
+      "id": "1password",
+      "name": "1Password",
+      "category": "Software",
+      "domain": "1password.com",
+      "brandColor": "#0572EC",
+      "simpleIcons": "1password",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 3588,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 5988,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "adobe",
+      "name": "Adobe Creative Cloud",
+      "category": "Software",
+      "domain": "adobe.com",
+      "brandColor": "#FF0000",
+      "simpleIcons": "adobe",
+      "aliases": [
+        "creative cloud",
+        "photoshop",
+        "lightroom"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Photography",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Single App",
+          "priceCents": 2399,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "All Apps",
+          "priceCents": 6499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "applearcade",
+      "name": "Apple Arcade",
+      "category": "Entertainment",
+      "domain": "apple.com",
+      "brandColor": "#000000",
+      "simpleIcons": "apple",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "applefitness",
+      "name": "Apple Fitness+",
+      "category": "Health",
+      "domain": "apple.com",
+      "brandColor": "#8CE01F",
+      "simpleIcons": "apple",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "applemusic",
+      "name": "Apple Music",
+      "category": "Entertainment",
+      "domain": "music.apple.com",
+      "brandColor": "#FA243C",
+      "simpleIcons": "applemusic",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1099,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 1699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Student",
+          "priceCents": 599,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "appleone",
+      "name": "Apple One",
+      "category": "Software",
+      "domain": "apple.com",
+      "brandColor": "#000000",
+      "simpleIcons": "apple",
+      "aliases": [
+        "apple",
+        "apple bundle"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1995,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 2595,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Premier",
+          "priceCents": 3695,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "appletv",
+      "name": "Apple TV+",
+      "category": "Entertainment",
+      "domain": "tv.apple.com",
+      "brandColor": "#000000",
+      "simpleIcons": "appletv",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "audible",
+      "name": "Audible",
+      "category": "Entertainment",
+      "domain": "audible.de",
+      "brandColor": "#F8991C",
+      "simpleIcons": "audible",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "babbel",
+      "name": "Babbel",
+      "category": "Education",
+      "domain": "babbel.com",
+      "brandColor": "#FF6B00",
+      "simpleIcons": "babbel",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "12 months",
+          "priceCents": 8399,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "backblaze",
+      "name": "Backblaze",
+      "category": "Software",
+      "domain": "backblaze.com",
+      "brandColor": "#E21E29",
+      "simpleIcons": "backblaze",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Personal (yearly)",
+          "priceCents": 9900,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "bahncard",
+      "name": "BahnCard",
+      "category": "Transport",
+      "domain": "bahn.de",
+      "brandColor": "#EC0016",
+      "simpleIcons": null,
+      "aliases": [
+        "bahn card",
+        "db"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "BahnCard 25, 2. Kl.",
+          "priceCents": 6290,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "BahnCard 50, 2. Kl.",
+          "priceCents": 24490,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "blinkist",
+      "name": "Blinkist",
+      "category": "Education",
+      "domain": "blinkist.com",
+      "brandColor": "#2CE080",
+      "simpleIcons": "blinkist",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Premium (yearly)",
+          "priceCents": 7999,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "calm",
+      "name": "Calm",
+      "category": "Health",
+      "domain": "calm.com",
+      "brandColor": "#2A6FF5",
+      "simpleIcons": "calm",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Premium (yearly)",
+          "priceCents": 4999,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "canva",
+      "name": "Canva",
+      "category": "Software",
+      "domain": "canva.com",
+      "brandColor": "#00C4CC",
+      "simpleIcons": "canva",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Pro (yearly)",
+          "priceCents": 10999,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "category": "Software",
+      "domain": "openai.com",
+      "brandColor": "#412991",
+      "simpleIcons": "openai",
+      "aliases": [
+        "openai",
+        "gpt"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Plus",
+          "priceCents": 2000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Pro",
+          "priceCents": 20000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "category": "Software",
+      "domain": "claude.ai",
+      "brandColor": "#D97757",
+      "simpleIcons": "anthropic",
+      "aliases": [
+        "anthropic"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 1800,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Max 5x",
+          "priceCents": 9000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Max 20x",
+          "priceCents": 18000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "congstar",
+      "name": "congstar",
+      "category": "Utilities",
+      "domain": "congstar.de",
+      "brandColor": "#FF6600",
+      "simpleIcons": null,
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Allnet Flat M",
+          "priceCents": 2200,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "crunchyroll",
+      "name": "Crunchyroll",
+      "category": "Entertainment",
+      "domain": "crunchyroll.com",
+      "brandColor": "#F47521",
+      "simpleIcons": "crunchyroll",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Fan",
+          "priceCents": 699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Mega Fan",
+          "priceCents": 899,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "category": "Software",
+      "domain": "cursor.com",
+      "brandColor": "#000000",
+      "simpleIcons": null,
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 2000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "dazn",
+      "name": "DAZN",
+      "category": "Entertainment",
+      "domain": "dazn.com",
+      "brandColor": "#0BF10B",
+      "simpleIcons": "dazn",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 4499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Unlimited",
+          "priceCents": 5999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "deezer",
+      "name": "Deezer",
+      "category": "Entertainment",
+      "domain": "deezer.com",
+      "brandColor": "#A238FF",
+      "simpleIcons": "deezer",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Premium",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "deutschlandticket",
+      "name": "Deutschlandticket",
+      "category": "Transport",
+      "domain": "bahn.de",
+      "brandColor": "#EC0016",
+      "simpleIcons": null,
+      "aliases": [
+        "49 euro ticket",
+        "db",
+        "bahn",
+        "dticket",
+        "d-ticket"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 5800,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "disneyplus",
+      "name": "Disney+",
+      "category": "Entertainment",
+      "domain": "disneyplus.com",
+      "brandColor": "#113CCF",
+      "simpleIcons": "disneyplus",
+      "aliases": [
+        "disney"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard with ads",
+          "priceCents": 599,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Standard",
+          "priceCents": 899,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Premium",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "category": "Software",
+      "domain": "dropbox.com",
+      "brandColor": "#0061FF",
+      "simpleIcons": "dropbox",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Plus",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo",
+      "category": "Education",
+      "domain": "duolingo.com",
+      "brandColor": "#58CC02",
+      "simpleIcons": "duolingo",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Super",
+          "priceCents": 1299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "category": "Software",
+      "domain": "figma.com",
+      "brandColor": "#F24E1E",
+      "simpleIcons": "figma",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Professional",
+          "priceCents": 1500,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "fitx",
+      "name": "FitX",
+      "category": "Health",
+      "domain": "fitx.de",
+      "brandColor": "#E30613",
+      "simpleIcons": null,
+      "aliases": [
+        "gym",
+        "fitness"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "flightradar",
+      "name": "Flightradar24",
+      "category": "Entertainment",
+      "domain": "flightradar24.com",
+      "brandColor": "#FFCC00",
+      "simpleIcons": null,
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Silver (yearly)",
+          "priceCents": 1799,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Gold (yearly)",
+          "priceCents": 3499,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "gamepass",
+      "name": "Xbox Game Pass",
+      "category": "Entertainment",
+      "domain": "xbox.com",
+      "brandColor": "#107C10",
+      "simpleIcons": "xbox",
+      "aliases": [
+        "xbox"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "PC",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Ultimate",
+          "priceCents": 1799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "category": "Software",
+      "domain": "github.com",
+      "brandColor": "#181717",
+      "simpleIcons": "github",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 400,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Copilot",
+          "priceCents": 1000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "googleone",
+      "name": "Google One",
+      "category": "Software",
+      "domain": "one.google.com",
+      "brandColor": "#4285F4",
+      "simpleIcons": "googleone",
+      "aliases": [
+        "google drive",
+        "google storage"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "100 GB",
+          "priceCents": 199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "200 GB",
+          "priceCents": 299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "2 TB",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "category": "Software",
+      "domain": "grammarly.com",
+      "brandColor": "#15C39A",
+      "simpleIcons": "grammarly",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 3000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "headspace",
+      "name": "Headspace",
+      "category": "Health",
+      "domain": "headspace.com",
+      "brandColor": "#F47D31",
+      "simpleIcons": "headspace",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Yearly",
+          "priceCents": 5799,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "hellofresh",
+      "name": "HelloFresh",
+      "category": "Groceries",
+      "domain": "hellofresh.de",
+      "brandColor": "#91C11E",
+      "simpleIcons": "hellofresh",
+      "aliases": [
+        "kochbox"
+      ],
+      "defaultCadence": "weekly",
+      "plans": [
+        {
+          "name": "Box",
+          "priceCents": 4500,
+          "currency": "EUR",
+          "cadence": "weekly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "icloud",
+      "name": "iCloud+",
+      "category": "Software",
+      "domain": "icloud.com",
+      "brandColor": "#3693F3",
+      "simpleIcons": "icloud",
+      "aliases": [
+        "apple icloud"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "50 GB",
+          "priceCents": 99,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "200 GB",
+          "priceCents": 299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "2 TB",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "6 TB",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "12 TB",
+          "priceCents": 5999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "joyn",
+      "name": "Joyn Plus",
+      "category": "Entertainment",
+      "domain": "joyn.de",
+      "brandColor": "#FF0069",
+      "simpleIcons": null,
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Plus",
+          "priceCents": 699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "kindleunlimited",
+      "name": "Kindle Unlimited",
+      "category": "Entertainment",
+      "domain": "amazon.de",
+      "brandColor": "#FF9900",
+      "simpleIcons": "amazon",
+      "aliases": [
+        "kindle"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "linear",
+      "name": "Linear",
+      "category": "Software",
+      "domain": "linear.app",
+      "brandColor": "#5E6AD2",
+      "simpleIcons": "linear",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceCents": 800,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn Premium",
+      "category": "Software",
+      "domain": "linkedin.com",
+      "brandColor": "#0A66C2",
+      "simpleIcons": "linkedin",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Career",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Business",
+          "priceCents": 4999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "magentatv",
+      "name": "MagentaTV",
+      "category": "Entertainment",
+      "domain": "telekom.de",
+      "brandColor": "#E20074",
+      "simpleIcons": "telekom",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Smart",
+          "priceCents": 1000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "mcfit",
+      "name": "McFIT",
+      "category": "Health",
+      "domain": "mcfit.com",
+      "brandColor": "#C8102E",
+      "simpleIcons": null,
+      "aliases": [
+        "gym",
+        "fitness"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 2990,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "microsoft365",
+      "name": "Microsoft 365",
+      "category": "Software",
+      "domain": "microsoft.com",
+      "brandColor": "#D83B01",
+      "simpleIcons": "microsoft365",
+      "aliases": [
+        "office",
+        "microsoft",
+        "office 365"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Single (yearly)",
+          "priceCents": 6900,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Family (yearly)",
+          "priceCents": 9900,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "category": "Entertainment",
+      "domain": "mubi.com",
+      "brandColor": "#000000",
+      "simpleIcons": "mubi",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 1299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "n26",
+      "name": "N26",
+      "category": "Utilities",
+      "domain": "n26.com",
+      "brandColor": "#36A18B",
+      "simpleIcons": "n26",
+      "aliases": [
+        "bank",
+        "n26 account",
+        "girokonto"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 0,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Smart",
+          "priceCents": 490,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Go",
+          "priceCents": 990,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Metal",
+          "priceCents": 1690,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "source": "https://n26.com/en-de/plans",
+      "pricing": "published"
+    },
+    {
+      "id": "n26esim",
+      "name": "N26 Travel eSIM",
+      "category": "Transport",
+      "domain": "n26.com",
+      "brandColor": "#36A18B",
+      "simpleIcons": "n26",
+      "aliases": [
+        "esim",
+        "n26 esim",
+        "travel esim",
+        "roaming"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Data bundle",
+          "priceCents": 0,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "n26sim",
+      "name": "N26 SIM",
+      "category": "Utilities",
+      "domain": "n26.com",
+      "brandColor": "#36A18B",
+      "simpleIcons": "n26",
+      "aliases": [
+        "n26 mobile",
+        "sim",
+        "handytarif",
+        "mobilfunk"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Small — 10 GB",
+          "priceCents": 1199,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Medium — 30 GB",
+          "priceCents": 1999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Large — 100 GB",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Small with Metal — 10 GB",
+          "priceCents": 799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "category": "Entertainment",
+      "domain": "netflix.com",
+      "brandColor": "#E50914",
+      "simpleIcons": "netflix",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard with ads",
+          "priceCents": 499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Standard",
+          "priceCents": 1399,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Premium",
+          "priceCents": 1999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "nintendoonline",
+      "name": "Nintendo Switch Online",
+      "category": "Entertainment",
+      "domain": "nintendo.de",
+      "brandColor": "#E60012",
+      "simpleIcons": "nintendoswitch",
+      "aliases": [
+        "nintendo"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1999,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 3499,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "nordvpn",
+      "name": "NordVPN",
+      "category": "Software",
+      "domain": "nordvpn.com",
+      "brandColor": "#4687FF",
+      "simpleIcons": "nordvpn",
+      "aliases": [
+        "vpn"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Standard (yearly)",
+          "priceCents": 5388,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "category": "Software",
+      "domain": "notion.so",
+      "brandColor": "#000000",
+      "simpleIcons": "notion",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Plus",
+          "priceCents": 1000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Business",
+          "priceCents": 1800,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "o2",
+      "name": "O2",
+      "category": "Utilities",
+      "domain": "o2online.de",
+      "brandColor": "#0019A5",
+      "simpleIcons": "o2",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Mobile M",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "category": "Software",
+      "domain": "obsidian.md",
+      "brandColor": "#7C3AED",
+      "simpleIcons": "obsidian",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Sync",
+          "priceCents": 4800,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount+",
+      "category": "Entertainment",
+      "domain": "paramountplus.com",
+      "brandColor": "#0064FF",
+      "simpleIcons": "paramountplus",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "patreon",
+      "name": "Patreon",
+      "category": "Entertainment",
+      "domain": "patreon.com",
+      "brandColor": "#FF424D",
+      "simpleIcons": "patreon",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Membership",
+          "priceCents": 500,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "category": "Software",
+      "domain": "perplexity.ai",
+      "brandColor": "#20808D",
+      "simpleIcons": "perplexity",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 2000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "primevideo",
+      "name": "Amazon Prime",
+      "category": "Entertainment",
+      "domain": "amazon.de",
+      "brandColor": "#00A8E1",
+      "simpleIcons": "amazonprime",
+      "aliases": [
+        "prime",
+        "amazon"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Yearly",
+          "priceCents": 8990,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Monthly",
+          "priceCents": 899,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "proton",
+      "name": "Proton",
+      "category": "Software",
+      "domain": "proton.me",
+      "brandColor": "#6D4AFF",
+      "simpleIcons": "proton",
+      "aliases": [
+        "protonmail",
+        "proton vpn"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Mail Plus (yearly)",
+          "priceCents": 4788,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Unlimited (yearly)",
+          "priceCents": 11988,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "psplus",
+      "name": "PlayStation Plus",
+      "category": "Entertainment",
+      "domain": "playstation.com",
+      "brandColor": "#0070D1",
+      "simpleIcons": "playstation",
+      "aliases": [
+        "ps plus",
+        "playstation"
+      ],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Essential (yearly)",
+          "priceCents": 7199,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Extra (yearly)",
+          "priceCents": 12500,
+          "currency": "EUR",
+          "cadence": "yearly"
+        },
+        {
+          "name": "Premium (yearly)",
+          "priceCents": 15200,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "rtlplus",
+      "name": "RTL+",
+      "category": "Entertainment",
+      "domain": "rtl.de",
+      "brandColor": "#E5133C",
+      "simpleIcons": null,
+      "aliases": [
+        "rtl"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Premium",
+          "priceCents": 699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Max",
+          "priceCents": 1299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "rundfunk",
+      "name": "Rundfunkbeitrag",
+      "category": "Utilities",
+      "domain": "rundfunkbeitrag.de",
+      "brandColor": "#4a3aa7",
+      "simpleIcons": null,
+      "aliases": [
+        "gez",
+        "ard",
+        "zdf"
+      ],
+      "defaultCadence": "quarterly",
+      "plans": [
+        {
+          "name": "Standard",
+          "priceCents": 5502,
+          "currency": "EUR",
+          "cadence": "quarterly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "setapp",
+      "name": "Setapp",
+      "category": "Software",
+      "domain": "setapp.com",
+      "brandColor": "#E4384F",
+      "simpleIcons": "setapp",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Mac",
+          "priceCents": 1099,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Mac + iOS",
+          "priceCents": 1499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "skyde",
+      "name": "Sky Deutschland",
+      "category": "Entertainment",
+      "domain": "sky.de",
+      "brandColor": "#0072C9",
+      "simpleIcons": "sky",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Entertainment",
+          "priceCents": 2000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Cinema + Entertainment",
+          "priceCents": 3000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "category": "Software",
+      "domain": "slack.com",
+      "brandColor": "#4A154B",
+      "simpleIcons": "slack",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 725,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "category": "Entertainment",
+      "domain": "spotify.com",
+      "brandColor": "#1DB954",
+      "simpleIcons": "spotify",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1099,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Duo",
+          "priceCents": 1499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 1799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Student",
+          "priceCents": 599,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "strava",
+      "name": "Strava",
+      "category": "Health",
+      "domain": "strava.com",
+      "brandColor": "#FC4C02",
+      "simpleIcons": "strava",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Premium (yearly)",
+          "priceCents": 7499,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "telekom",
+      "name": "Telekom Mobil",
+      "category": "Utilities",
+      "domain": "telekom.de",
+      "brandColor": "#E20074",
+      "simpleIcons": "telekom",
+      "aliases": [
+        "t-mobile",
+        "magenta"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "MagentaMobil S",
+          "priceCents": 2995,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "MagentaMobil M",
+          "priceCents": 3995,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "MagentaMobil L",
+          "priceCents": 5995,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "tidal",
+      "name": "Tidal",
+      "category": "Entertainment",
+      "domain": "tidal.com",
+      "brandColor": "#000000",
+      "simpleIcons": "tidal",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1099,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 1699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "todoist",
+      "name": "Todoist",
+      "category": "Software",
+      "domain": "todoist.com",
+      "brandColor": "#E44332",
+      "simpleIcons": "todoist",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "Pro (yearly)",
+          "priceCents": 4800,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "urbansports",
+      "name": "Urban Sports Club",
+      "category": "Health",
+      "domain": "urbansportsclub.com",
+      "brandColor": "#00D1B2",
+      "simpleIcons": null,
+      "aliases": [
+        "usc"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "S",
+          "priceCents": 3900,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "M",
+          "priceCents": 5900,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "L",
+          "priceCents": 7900,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "XL",
+          "priceCents": 10900,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "category": "Software",
+      "domain": "vercel.com",
+      "brandColor": "#000000",
+      "simpleIcons": "vercel",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 2000,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "vodafone",
+      "name": "Vodafone",
+      "category": "Utilities",
+      "domain": "vodafone.de",
+      "brandColor": "#E60000",
+      "simpleIcons": "vodafone",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Red Internet",
+          "priceCents": 3999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "waipu",
+      "name": "waipu.tv",
+      "category": "Entertainment",
+      "domain": "waipu.tv",
+      "brandColor": "#00C3A0",
+      "simpleIcons": null,
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Perfect Plus",
+          "priceCents": 1299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "whoop",
+      "name": "WHOOP",
+      "category": "Health",
+      "domain": "whoop.com",
+      "brandColor": "#000000",
+      "simpleIcons": "whoop",
+      "aliases": [],
+      "defaultCadence": "yearly",
+      "plans": [
+        {
+          "name": "One (yearly)",
+          "priceCents": 22900,
+          "currency": "EUR",
+          "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "wow",
+      "name": "WOW",
+      "category": "Entertainment",
+      "domain": "wowtv.de",
+      "brandColor": "#00A0DE",
+      "simpleIcons": null,
+      "aliases": [
+        "sky",
+        "wow tv"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Filme & Serien",
+          "priceCents": 999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Live-Sport Monatsabo",
+          "priceCents": 2999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "youtubepremium",
+      "name": "YouTube Premium",
+      "category": "Entertainment",
+      "domain": "youtube.com",
+      "brandColor": "#FF0000",
+      "simpleIcons": "youtube",
+      "aliases": [
+        "youtube"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Individual",
+          "priceCents": 1299,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Family",
+          "priceCents": 2399,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Student",
+          "priceCents": 799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "category": "Software",
+      "domain": "zoom.us",
+      "brandColor": "#0B5CFF",
+      "simpleIcons": "zoom",
+      "aliases": [],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Pro",
+          "priceCents": 1399,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    }
+  ]
+}
