@@ -1328,6 +1328,30 @@
       "pricing": "estimate"
     },
     {
+      "id": "picnic",
+      "name": "Picnic",
+      "category": "Groceries",
+      "domain": "picnic.app",
+      "brandColor": "#E1171E",
+      "simpleIcons": "picnic",
+      "aliases": [
+        "picnic app",
+        "boodschappen",
+        "lebensmittel",
+        "groceries"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Per order",
+          "priceCents": 0,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "primevideo",
       "name": "Amazon Prime",
       "category": "Entertainment",

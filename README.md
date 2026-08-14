@@ -4,7 +4,7 @@ Services people actually subscribe to, with their plans, prices and brand marks.
 Weighted towards the German market: Deutschlandticket, Rundfunkbeitrag, N26,
 Telekom, Urban Sports Club alongside the usual streaming and software.
 
-76 services, 131 plans.
+77 services, 132 plans.
 
 ## Why this exists
 
