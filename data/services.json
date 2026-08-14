@@ -64,6 +64,75 @@
       "pricing": "estimate"
     },
     {
+      "id": "allianz",
+      "name": "Allianz",
+      "category": "Insurance",
+      "domain": "allianz.de",
+      "brandColor": "#003781",
+      "simpleIcons": "allianz",
+      "aliases": [
+        "versicherung"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 600,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Hausrat",
+          "priceCents": 900,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Rechtsschutz",
+          "priceCents": 2200,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "andsafe",
+      "name": "andsafe",
+      "category": "Insurance",
+      "domain": "andsafe.de",
+      "brandColor": "#E5004F",
+      "simpleIcons": null,
+      "aliases": [
+        "pflichtversicherung",
+        "haftpflicht",
+        "kfz",
+        "provinzial"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 381,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Kfz-Haftpflicht",
+          "priceCents": 2500,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Hundehaftpflicht",
+          "priceCents": 600,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "applearcade",
       "name": "Apple Arcade",
       "category": "Entertainment",
@@ -205,6 +274,33 @@
       "pricing": "estimate"
     },
     {
+      "id": "axa",
+      "name": "AXA",
+      "category": "Insurance",
+      "domain": "axa.de",
+      "brandColor": "#00008F",
+      "simpleIcons": "axa",
+      "aliases": [
+        "versicherung"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 550,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Hausrat",
+          "priceCents": 850,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "babbel",
       "name": "Babbel",
       "category": "Education",
@@ -266,6 +362,28 @@
           "priceCents": 24490,
           "currency": "EUR",
           "cadence": "yearly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "barmer",
+      "name": "BARMER",
+      "category": "Insurance",
+      "domain": "barmer.de",
+      "brandColor": "#009EE0",
+      "simpleIcons": null,
+      "aliases": [
+        "krankenkasse",
+        "gkv"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Zusatzbeitrag",
+          "priceCents": 0,
+          "currency": "EUR",
+          "cadence": "monthly"
         }
       ],
       "pricing": "estimate"
@@ -408,6 +526,34 @@
       "pricing": "estimate"
     },
     {
+      "id": "cosmosdirekt",
+      "name": "CosmosDirekt",
+      "category": "Insurance",
+      "domain": "cosmosdirekt.de",
+      "brandColor": "#E2001A",
+      "simpleIcons": null,
+      "aliases": [
+        "versicherung",
+        "generali"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 420,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Risikoleben",
+          "priceCents": 1200,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "crunchyroll",
       "name": "Crunchyroll",
       "category": "Entertainment",
@@ -452,6 +598,34 @@
       "pricing": "estimate"
     },
     {
+      "id": "dadirekt",
+      "name": "DA Direkt",
+      "category": "Insurance",
+      "domain": "da-direkt.de",
+      "brandColor": "#F5A800",
+      "simpleIcons": null,
+      "aliases": [
+        "zurich",
+        "kfz"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Kfz-Versicherung",
+          "priceCents": 3200,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 460,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "dazn",
       "name": "DAZN",
       "category": "Entertainment",
@@ -470,6 +644,28 @@
         {
           "name": "Unlimited",
           "priceCents": 5999,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "debeka",
+      "name": "Debeka",
+      "category": "Insurance",
+      "domain": "debeka.de",
+      "brandColor": "#005CA9",
+      "simpleIcons": null,
+      "aliases": [
+        "krankenversicherung",
+        "pkv"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Krankenversicherung",
+          "priceCents": 0,
           "currency": "EUR",
           "cadence": "monthly"
         }
@@ -592,6 +788,67 @@
       "pricing": "estimate"
     },
     {
+      "id": "ergo",
+      "name": "ERGO",
+      "category": "Insurance",
+      "domain": "ergo.de",
+      "brandColor": "#8E0038",
+      "simpleIcons": null,
+      "aliases": [
+        "versicherung"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 520,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Rechtsschutz",
+          "priceCents": 2400,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "feather",
+      "name": "Feather",
+      "category": "Insurance",
+      "domain": "feather-insurance.com",
+      "brandColor": "#2D4635",
+      "simpleIcons": null,
+      "aliases": [
+        "expat insurance",
+        "liability"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Liability",
+          "priceCents": 488,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Household",
+          "priceCents": 590,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Legal",
+          "priceCents": 2390,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
       "id": "figma",
       "name": "Figma",
       "category": "Software",
@@ -678,6 +935,40 @@
         {
           "name": "Ultimate",
           "priceCents": 1799,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "getsafe",
+      "name": "Getsafe",
+      "category": "Insurance",
+      "domain": "hellogetsafe.com",
+      "brandColor": "#6C3EF4",
+      "simpleIcons": null,
+      "aliases": [
+        "haftpflicht",
+        "digital insurance"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 499,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Hausrat",
+          "priceCents": 690,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Zahnzusatz",
+          "priceCents": 1290,
           "currency": "EUR",
           "cadence": "monthly"
         }
@@ -798,6 +1089,42 @@
           "priceCents": 4500,
           "currency": "EUR",
           "cadence": "weekly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "huk",
+      "name": "HUK-COBURG",
+      "category": "Insurance",
+      "domain": "huk.de",
+      "brandColor": "#004F9F",
+      "simpleIcons": null,
+      "aliases": [
+        "huk",
+        "coburg",
+        "kfz",
+        "haftpflicht"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Privathaftpflicht",
+          "priceCents": 450,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Kfz-Versicherung",
+          "priceCents": 3500,
+          "currency": "EUR",
+          "cadence": "monthly"
+        },
+        {
+          "name": "Hausrat",
+          "priceCents": 700,
+          "currency": "EUR",
+          "cadence": "monthly"
         }
       ],
       "pricing": "estimate"
@@ -1669,6 +1996,30 @@
         {
           "name": "Family",
           "priceCents": 1699,
+          "currency": "EUR",
+          "cadence": "monthly"
+        }
+      ],
+      "pricing": "estimate"
+    },
+    {
+      "id": "tk",
+      "name": "Techniker Krankenkasse",
+      "category": "Insurance",
+      "domain": "tk.de",
+      "brandColor": "#1E3A8A",
+      "simpleIcons": null,
+      "aliases": [
+        "tk",
+        "krankenkasse",
+        "health insurance",
+        "gkv"
+      ],
+      "defaultCadence": "monthly",
+      "plans": [
+        {
+          "name": "Zusatzbeitrag",
+          "priceCents": 0,
           "currency": "EUR",
           "cadence": "monthly"
         }
