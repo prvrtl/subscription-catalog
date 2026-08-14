@@ -3,14 +3,24 @@
   "version": "0.1.0",
   "description": "Subscription services, plans, prices and brand marks, focused on the German market",
   "type": "module",
-  "main": "./src/index.ts",
-  "types": "./src/index.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "exports": {
-    ".": "./src/index.ts",
-    "./data": "./data/services.json"
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./data": "./data/services.json",
+    "./package.json": "./package.json"
   },
-  "files": ["src", "data"],
+  "files": [
+    "dist",
+    "data",
+    "src"
+  ],
   "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "prepare": "npm run build",
     "validate": "node scripts/validate.mjs",
     "test": "node scripts/validate.mjs && vitest run",
     "typecheck": "tsc --noEmit"
