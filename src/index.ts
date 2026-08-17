@@ -7,6 +7,49 @@ export interface Plan {
   priceCents: number
   currency: string
   cadence: Cadence
+  /**
+   * The same tier paid a year at a time, where the vendor offers the choice.
+   *
+   * One row per tier carrying both prices rather than two rows that happen to
+   * share a name: the question a reader has is "is annual worth it for the plan
+   * I am on", and that is only answerable when the two numbers sit together.
+   */
+  annualPriceCents?: number
+}
+
+/**
+ * Where the vendor lets you change or end it.
+ *
+ * The single most useful thing this catalogue can hold. Everyone knows they are
+ * paying for something they meant to cancel; almost nobody can find the page.
+ * Vendors bury it, and the search results for "cancel <service>" are a field of
+ * affiliate spam.
+ *
+ * One `plan` link rather than separate upgrade and downgrade links, because
+ * vendors have one change-plan page and inventing two would be modelling a
+ * distinction that does not exist on their side.
+ */
+export interface ManageLinks {
+  /** Subscription or account overview. */
+  account?: string
+  /** Where a tier is changed, in either direction. */
+  plan?: string
+  /** Where it is ended. Deep-linked wherever the vendor has a real cancel page. */
+  cancel?: string
+}
+
+/**
+ * The thing a friend who knows the service would tell you.
+ *
+ * Not marketing, and not a description — the reader already knows what Netflix
+ * is. This is the non-obvious fact that changes a decision: the cheaper tier
+ * with the same catalogue, the annual option that is genuinely worth it, the
+ * notice period that catches people out, the employer subsidy nobody claims.
+ */
+export interface Notes {
+  en: string
+  de: string
+  uk: string
 }
 
 export interface Service {
@@ -27,6 +70,25 @@ export interface Service {
    */
   pricing: 'published' | 'estimate'
   source?: string
+  manage?: ManageLinks
+  notes?: Notes
+  /**
+   * Where the service is actually worth offering — 'DE', 'EU', 'UA'.
+   *
+   * A German household searching for a phone plan should not wade through
+   * Kyivstar, and a Ukrainian one should not have to scroll past Vodafone
+   * Germany to reach it. Ranking, not filtering: a service left out of a
+   * region's list is still findable by typing its name.
+   */
+  regions?: string[]
+  /**
+   * When somebody last checked the prices against the vendor's own page.
+   *
+   * Prices drift and a catalogue that does not say when it was read is a
+   * catalogue claiming to be current forever. The app shows this rather than
+   * implying freshness it cannot promise.
+   */
+  checkedOn?: string
 }
 
 export interface Catalog {
