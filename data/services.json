@@ -34,7 +34,7 @@
       "category": "Software",
       "domain": "adobe.com",
       "brandColor": "#FF0000",
-      "simpleIcons": "adobe",
+      "simpleIcons": null,
       "aliases": [
         "creative cloud",
         "photoshop",
@@ -83,7 +83,7 @@
       "category": "Insurance",
       "domain": "allianz.de",
       "brandColor": "#003781",
-      "simpleIcons": "allianz",
+      "simpleIcons": null,
       "aliases": [
         "versicherung"
       ],
@@ -336,7 +336,7 @@
       "category": "Insurance",
       "domain": "axa.de",
       "brandColor": "#00008F",
-      "simpleIcons": "axa",
+      "simpleIcons": null,
       "aliases": [
         "versicherung"
       ],
@@ -363,7 +363,7 @@
       "category": "Education",
       "domain": "babbel.com",
       "brandColor": "#FF6B00",
-      "simpleIcons": "babbel",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "yearly",
       "plans": [
@@ -451,7 +451,7 @@
       "category": "Education",
       "domain": "blinkist.com",
       "brandColor": "#2CE080",
-      "simpleIcons": "blinkist",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "yearly",
       "plans": [
@@ -470,7 +470,7 @@
       "category": "Health",
       "domain": "calm.com",
       "brandColor": "#2A6FF5",
-      "simpleIcons": "calm",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "yearly",
       "plans": [
@@ -489,7 +489,7 @@
       "category": "Software",
       "domain": "canva.com",
       "brandColor": "#00C4CC",
-      "simpleIcons": "canva",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "yearly",
       "plans": [
@@ -508,7 +508,7 @@
       "category": "Software",
       "domain": "openai.com",
       "brandColor": "#412991",
-      "simpleIcons": "openai",
+      "simpleIcons": null,
       "aliases": [
         "openai",
         "gpt"
@@ -844,7 +844,7 @@
       "category": "Entertainment",
       "domain": "disneyplus.com",
       "brandColor": "#113CCF",
-      "simpleIcons": "disneyplus",
+      "simpleIcons": null,
       "aliases": [
         "disney"
       ],
@@ -1060,7 +1060,7 @@
       "category": "Entertainment",
       "domain": "xbox.com",
       "brandColor": "#107C10",
-      "simpleIcons": "xbox",
+      "simpleIcons": null,
       "aliases": [
         "xbox"
       ],
@@ -1146,7 +1146,7 @@
       "category": "Software",
       "domain": "one.google.com",
       "brandColor": "#4285F4",
-      "simpleIcons": "googleone",
+      "simpleIcons": null,
       "aliases": [
         "google drive",
         "google storage"
@@ -1369,7 +1369,7 @@
       "category": "Entertainment",
       "domain": "amazon.de",
       "brandColor": "#FF9900",
-      "simpleIcons": "amazon",
+      "simpleIcons": null,
       "aliases": [
         "kindle"
       ],
@@ -1484,7 +1484,7 @@
       "category": "Software",
       "domain": "linkedin.com",
       "brandColor": "#0A66C2",
-      "simpleIcons": "linkedin",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "monthly",
       "plans": [
@@ -1509,7 +1509,7 @@
       "category": "Entertainment",
       "domain": "telekom.de",
       "brandColor": "#E20074",
-      "simpleIcons": "telekom",
+      "simpleIcons": "deutschetelekom",
       "aliases": [],
       "defaultCadence": "monthly",
       "plans": [
@@ -1590,7 +1590,7 @@
       "category": "Software",
       "domain": "microsoft.com",
       "brandColor": "#D83B01",
-      "simpleIcons": "microsoft365",
+      "simpleIcons": null,
       "aliases": [
         "office",
         "microsoft",
@@ -1809,7 +1809,7 @@
       "category": "Entertainment",
       "domain": "nintendo.de",
       "brandColor": "#E60012",
-      "simpleIcons": "nintendoswitch",
+      "simpleIcons": null,
       "aliases": [
         "nintendo"
       ],
@@ -2058,7 +2058,7 @@
       "category": "Entertainment",
       "domain": "amazon.de",
       "brandColor": "#00A8E1",
-      "simpleIcons": "amazonprime",
+      "simpleIcons": null,
       "aliases": [
         "prime",
         "amazon"
@@ -2309,7 +2309,7 @@
       "category": "Software",
       "domain": "slack.com",
       "brandColor": "#4A154B",
-      "simpleIcons": "slack",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "monthly",
       "plans": [
@@ -2441,7 +2441,7 @@
       "category": "Utilities",
       "domain": "telekom.de",
       "brandColor": "#E20074",
-      "simpleIcons": "telekom",
+      "simpleIcons": "deutschetelekom",
       "aliases": [
         "t-mobile",
         "magenta"
@@ -2674,7 +2674,7 @@
       "category": "Health",
       "domain": "whoop.com",
       "brandColor": "#000000",
-      "simpleIcons": "whoop",
+      "simpleIcons": null,
       "aliases": [],
       "defaultCadence": "yearly",
       "plans": [
@@ -2693,7 +2693,7 @@
       "category": "Groceries",
       "domain": "wolt.com",
       "brandColor": "#00C2E8",
-      "simpleIcons": "wolt",
+      "simpleIcons": null,
       "aliases": [
         "wolt plus"
       ],
